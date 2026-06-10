@@ -1,0 +1,10 @@
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("A                          A");
+        System.out.println("A                          A");
+        System.out.println("A      AAAAAAAAAAAAA       A");
+        System.out.println("AAAAA  A           A   AAAAA");
+        System.out.println("A   A  A           A   A   A");
+        System.out.println("A   A  A           A   A   A");
+    }
+}
